@@ -1,5 +1,5 @@
 {
-    "version": "2.5.1",
+    "version": "2.6.0",
     "summary": "Doodads we use at NRI",
     "repository": "https://github.com/NoRedInk/elm-doodad.git",
     "license": "BSD3",
@@ -14,7 +14,8 @@
         "Nri.Styles",
         "Nri.Tabs",
         "Nri.Text",
-        "Nri.TextInput"
+        "Nri.TextInput",
+        "Nri.TextAreaWithOverlappingLabel"
     ],
     "dependencies": {
         "NoRedInk/nri-elm-css": "5.0.0 <= v < 6.0.0",
