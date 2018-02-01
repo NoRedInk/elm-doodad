@@ -1,2 +1,3 @@
-# elm-doodad
-Doodads we use
+# DEPRECATED!
+
+We've switched to using noredink-ui: https://github.com/NoRedInk/noredink-ui
